@@ -1,4 +1,4 @@
-Bin/
-Obj/
+bin/
+obj/
 *.depend
 *.layout
